@@ -1,0 +1,12 @@
+{
+  "name": "gitHub-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/iriekun/gitHub-action.git",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "express": "^4.21.2",
+    "mocha": "^11.0.1"
+  }
+}
